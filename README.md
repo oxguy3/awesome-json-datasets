@@ -11,6 +11,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
+* [Hacker News](#hacker-news)
 * [HTTP](#http)
 * [Media](#media)
 * [Node.js API](#nodejs-api)
@@ -243,6 +244,17 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Category](http://api.lobbyfacts.eu/api/1/category)
   * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
+
+## Hacker News
+* [Item](https://hacker-news.firebaseio.com/v0/item/8863.json)
+* [User](https://hacker-news.firebaseio.com/v0/user/jl.json)
+* [Top stories](https://hacker-news.firebaseio.com/v0/topstories.json)
+* [New stories](https://hacker-news.firebaseio.com/v0/newstories.json)
+* [Latest Ask HN stories](https://hacker-news.firebaseio.com/v0/askstories.json)
+* [Latset Show HN stories](https://hacker-news.firebaseio.com/v0/showstories.json)
+* [Latest job stories](https://hacker-news.firebaseio.com/v0/jobstories)
+
+> Pro Tip: you can do more at [https://github.com/HackerNews/API](https://github.com/HackerNews/API)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
