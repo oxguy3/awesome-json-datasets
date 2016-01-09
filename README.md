@@ -169,18 +169,17 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [Battlefield 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Capcom game manuals](http://www.capcom.com/manuals.json)
 * [Minecraft](http://wiki.vg/Mojang_API)
   * [Service status](https://status.mojang.com/check)
-* Steam
+* Steam (APIs by [SteamSpy](http://steamspy.com/api.php) and [SteamDB](https://steamdb.info))
   * [All games](http://steamspy.com/api.php?request=all)
   * [Top 100 recently played games](http://steamspy.com/api.php?request=top100in2weeks)
   * [Top 100 owned games](http://steamspy.com/api.php?request=top100owned)
-  * [Concurrent player history, this week](https://ravenholm.steamdb.info/753w.json)
+  * [Concurrent player history, this week](https://ravenholm.steamdb.info/753w.json) *(Replace `753` with the app ID of any game you want to look up)*
   * [Concurrent player history, this year](https://ravenholm.steamdb.info/753y.json)
   * [Your owned games, wishlist, cart, etc](https://store.steampowered.com/dynamicstore/userdata/)
   * [Service status](https://crowbar.steamdb.info/Barney)
-
-> Pro Tip: you can do **a lot** more at [SteamSpy](http://steamspy.com/api.php). You can also see the concurrent player history for any game by changing the number "753" in the "Concurrent player history" links above to the app ID of any game.
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
